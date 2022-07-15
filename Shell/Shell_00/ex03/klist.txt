@@ -1,0 +1,6 @@
+Credentials cache: API:0A39DFF3-F897-4EDB-B481-5F33F09AAA77
+        Principal: ialousse@S19.BE
+
+  Issued                Expires               Principal
+Mar 12 10:33:43 2022  Mar 12 20:33:43 2022  krbtgt/S19.BE@S19.BE
+Mar 12 10:33:46 2022  Mar 12 20:33:43 2022  HTTP/san-ssd.s19.be@S19.BE
